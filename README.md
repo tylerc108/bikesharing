@@ -1,5 +1,8 @@
 # bikesharing
 
+[link to dashboard](https://public.tableau.com/app/profile/tyler.comerford/viz/Module14Challenge_16588659091080/Story1?publish=yes)
+
+
 ## Analysis Overview
 For this week's analysis, we assisted a bike sharing startup to conduct analysis on a business proposal to convince investors that a bike-sharing program in Des Moines is a good idea. To do this, we conducted analysis on an existing bike-sharing program in New York City to prove that this type of program can be successful. 
 
